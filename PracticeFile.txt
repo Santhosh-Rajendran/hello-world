@@ -1,4 +1,8 @@
 Hello World, I am just practicing git commands
-New line
+New lin
+
 New line
 New line 3
+
+line 1 = add
+line 2 = after add
